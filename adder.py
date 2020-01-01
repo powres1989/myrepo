@@ -1,2 +1,2 @@
-print("good job")
-print("It works")
+for item in range(1, 20+1)
+    print("It works")
